@@ -1,0 +1,4 @@
+local:
+  namespaces:
+    - namespace: gna-1234
+    - namespace: gna-45678
